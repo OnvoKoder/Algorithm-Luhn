@@ -1,0 +1,12 @@
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\bin\Debug\net6.0\CreditClassLibrary.deps.json
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\bin\Debug\net6.0\CreditClassLibrary.dll
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\bin\Debug\net6.0\ref\CreditClassLibrary.dll
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\bin\Debug\net6.0\CreditClassLibrary.pdb
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\CreditClassLibrary.csproj.AssemblyReference.cache
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\CreditClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\CreditClassLibrary.AssemblyInfoInputs.cache
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\CreditClassLibrary.AssemblyInfo.cs
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\CreditClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\CreditClassLibrary.dll
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\ref\CreditClassLibrary.dll
+C:\Users\zenit\Desktop\luna\CreditClassLibrary\CreditClassLibrary\obj\Debug\net6.0\CreditClassLibrary.pdb
