@@ -21,7 +21,7 @@
                 type = "INVAID";
             for (int i = 0; i < card.ToString().Length; i++)
             {
-                if (i % 2 != 0)
+                if (i % 2 == 0)
                 {
                     if (2 * int.Parse(card.ToString()[i].ToString()) < 9)
                         sum1 += 2 * int.Parse(card.ToString()[i].ToString());

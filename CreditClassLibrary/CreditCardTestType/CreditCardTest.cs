@@ -8,7 +8,7 @@ namespace CreditCardTestType
         [TestMethod]
         public void TypeAMEX()
         {
-            long card = 378282246310005;
+            long card = 375687654321001;
             string type = "AMEX";
             CreditCard credit = new CreditCard(card);
             Assert.AreEqual(type, credit.GetTypeCard(card));
@@ -16,7 +16,7 @@ namespace CreditCardTestType
         [TestMethod]
         public void TypeMASTERCARD()
         {
-            long card = 5579175005737625;
+            long card = 5367755632456260;
             string type = "MASTERCARD";
             CreditCard credit = new CreditCard(card);
             Assert.AreEqual(type, credit.GetTypeCard(card));
@@ -24,7 +24,7 @@ namespace CreditCardTestType
         [TestMethod]
         public void TypeVISA()
         {
-            long card = 4561261212345437;
+            long card = 4249175005737427;
             string type = "VISA";
             CreditCard credit = new CreditCard(card);
             Assert.AreEqual(type, credit.GetTypeCard(card));

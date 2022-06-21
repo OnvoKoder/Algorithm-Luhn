@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\zenit\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\zenit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zenit\\Desktop\\luna\\CreditClassLibrary\\CreditClassLibrary\\CreditClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\zenit\\Source\\Repos\\OnvoKoder\\Algorithm-Luna\\CreditClassLibrary\\CreditClassLibrary\\CreditClassLibrary.csproj",
       "projectName": "CreditClassLibrary",
-      "projectPath": "C:\\Users\\zenit\\Desktop\\luna\\CreditClassLibrary\\CreditClassLibrary\\CreditClassLibrary.csproj",
+      "projectPath": "C:\\Users\\zenit\\Source\\Repos\\OnvoKoder\\Algorithm-Luna\\CreditClassLibrary\\CreditClassLibrary\\CreditClassLibrary.csproj",
       "packagesPath": "C:\\Users\\zenit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zenit\\Desktop\\luna\\CreditClassLibrary\\CreditClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\zenit\\Source\\Repos\\OnvoKoder\\Algorithm-Luna\\CreditClassLibrary\\CreditClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\zenit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
